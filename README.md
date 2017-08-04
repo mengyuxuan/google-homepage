@@ -1,0 +1,1 @@
+This is the readme. We will talk about self reflection later. 
